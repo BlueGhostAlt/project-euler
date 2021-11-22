@@ -7,3 +7,5 @@
 
 * [Multiples of 3 or 5](https://projecteuler.net/problem=1)
   * [Solution](src/multiples_of_3_or_5.rs)
+* [Even Fibonacci numbers](https://projecteuler.net/problem=2)
+  * [Solution](src/even_fibonacci_numbers.rs)
